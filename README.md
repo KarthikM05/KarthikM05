@@ -32,7 +32,7 @@
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/karthikmugila/)  
-- [Resume/Portfolio](#)  
+- [Resume/Portfolio]([#](https://drive.google.com/file/d/1No6eJ7eq3J9GaUTIlmUhLLrceu36pzcf/view?usp=sharing))  
 - Email: karthikmugila3@gmail.com  
 
 ---
