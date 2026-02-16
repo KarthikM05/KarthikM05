@@ -1,4 +1,4 @@
-# Hi, I'm Karthik 👋
+# Hi, I'm Karthik Mugila👋
 
 **Program Manager | MBA in Business Analytics (AI/ML) | Engineering + IT deployments + AI project/program management & airline strategy analytics**
 
