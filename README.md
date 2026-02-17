@@ -7,8 +7,8 @@
 ## 🚀 About Me
 - 🎓 MBA in Business Analytics (AI/ML) from Christ University  
 - 🎓 BE in Electronics & Communication Engineering  
-- 💼 3.5+ years in IT deployments (RFID, POS, kiosks, global rollouts)  
-- 💼 Associate Program Manager in AI automation (healthcare, insurance, industrial domains)  
+- 💼 3 years in IT deployments (RFID, POS, kiosks, global rollouts)  
+- 💼 3.5 years as an Associate Program Manager in AI automation (healthcare, insurance, industrial domains)  
 - ✈️ Airline strategy project during MBA sparked my interest in aviation & aerospace program management  
 - 🌍 Experienced in global coordination, compliance frameworks, and operational governance  
 
